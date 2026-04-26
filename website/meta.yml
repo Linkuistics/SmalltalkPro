@@ -1,0 +1,11 @@
+name: SmalltalkPro
+slug: smalltalkpro
+tagline: A native macOS IDE for Pharo Smalltalk — live image, objects, inspector, debugger.
+summary: |
+  SmalltalkPro will be a native macOS IDE for Pharo Smalltalk, written in Pharo Smalltalk,
+  using APIAnyware-MacOS bindings for native macOS APIs. It brings Smalltalk's live
+  programming model — mutable image, message-passing, hot-swap debugging — to macOS as
+  a first-class native application.
+status: design
+github_url: https://github.com/Linkuistics/SmalltalkPro
+tags: [ide, smalltalk]
